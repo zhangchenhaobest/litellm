@@ -1,3 +1,29 @@
+# litellm
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+最轻最快的 AI 网关，Rust 内核 + Python SDK，以 OpenAI 格式调用 100+ LLM API，含成本追踪与负载均衡。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <h1 align="center">
         🚅 LiteLLM
     </h1>
